@@ -1,6 +1,10 @@
 ---
 name: Feature/improvement proposal
 about: Propose a new feauture or improvement for Read the Docs
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## What's the problem this feature will solve?
